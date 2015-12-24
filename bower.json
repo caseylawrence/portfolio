@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "authors": [
+    "caseylawrence <caseyshealawrence@gmail.com>"
+  ],
+  "description": "Casey's portfolio",
+  "main": "",
+  "moduleType": [],
+  "license": "private",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
